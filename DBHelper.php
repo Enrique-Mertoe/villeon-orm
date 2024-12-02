@@ -1,5 +1,5 @@
 <?php
-namespace Villeon\VilleonORM\VilleonORM;
+namespace Villeon\Core\VilleonORM;
 
 class DBHelper
 {
