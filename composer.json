@@ -1,0 +1,13 @@
+{
+  "name": "villeon/villeon-orm",
+  "description": "A lightweight ORM for PHP as part of VilleonPHP framework.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Villeon/VilleonORM\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
